@@ -1,4 +1,4 @@
-# [Swift] 2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass)
+# [Swift] 2021 SwiftUI Tutorial for Beginners
 
 > CodeWithChris 유튜브 : [YouTube](https://youtu.be/F2ojC6TNwws) 
 >
